@@ -1,6 +1,6 @@
 # Vanta-Bedrock-Bypass
 avoid being discovered no matter what cheat you use in Minecraft: Bedrock Edition
-Written in **C#**
+- Written in **C#**
 
 # Examples
 - Nitr0
